@@ -6,6 +6,7 @@ This app is made solely for the purpose of practicing PR requests to similate re
 
 firstBranch edit
 main merge conflict simulation edit on main
+secondBranch merge conflict simulation edit
 
 -------- /PR practice --------
 
