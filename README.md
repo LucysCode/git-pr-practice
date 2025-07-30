@@ -9,6 +9,7 @@ main merge conflict simulation edit on main
 secondBranch merge conflict simulation edit
 
 personA merge conflict simulation edit on personA branch
+personB merge conflict simulation edit on personB branch
 
 -------- /PR practice --------
 
