@@ -8,6 +8,8 @@ firstBranch edit
 main merge conflict simulation edit on main
 secondBranch merge conflict simulation edit
 
+personA merge conflict simulation edit on personA branch
+
 -------- /PR practice --------
 
 Other topics to cover using this app include:
