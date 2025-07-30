@@ -2,6 +2,12 @@
 
 This app is made solely for the purpose of practicing PR requests to similate real life workflows and collaboration.
 
+-------- PR practice --------
+
+
+
+-------- /PR practice --------
+
 Other topics to cover using this app include:
 - branching
 - committing
